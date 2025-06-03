@@ -4,7 +4,7 @@ const chalk = require('chalk');
 /*
 	* Create By Marcell
 	* Follow https://github.com/nazedev
-	* Whatsapp : https://whatsapp.com/channel/0029VaWOkNm7DAWtkvkJBK43
+	* Whatsapp : https://wa.me/message/NH5Q37GNSK4FP1
 */
 
 //~~~~~~~~~~~~< GLOBAL SETTINGS >~~~~~~~~~~~~\\
